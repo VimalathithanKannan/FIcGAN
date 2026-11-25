@@ -61,6 +61,9 @@ VP Kannan et al. Pressure-Dependent Prediction of Contact Patches in Rough Elast
 
 This section will be updated with the journal and DOI after publication.
 
+Codes and trained moels archived on Zenodo:
+https://doi.org/10.5281/zenodo.24538868
+
 ## License
 
 Released under the [MIT License](LICENSE).
